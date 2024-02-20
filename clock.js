@@ -26,4 +26,4 @@ function clock(){
 
     
 }
-setInterval(clock, 1000);
+setInterval(clock, 914);
